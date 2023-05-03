@@ -1,0 +1,6 @@
+[submodule "BoT-SORT"]
+	path = BoT-SORT
+	url = https://github.com/JudyJin/BoT-SORT
+[submodule "Attention"]
+	path = Attention
+	url = https://github.com/KellyShiiii/Attention
