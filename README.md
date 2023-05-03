@@ -19,4 +19,6 @@ This project presents a novel framework that utilizes one-shot object detection 
 
 ## Overall Data Pipeline
 
+<p align="center"><img src="assets/pipeline old.png"/></p>
+
 
