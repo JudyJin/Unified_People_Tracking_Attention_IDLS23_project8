@@ -36,11 +36,14 @@ https://drive.google.com/drive/folders/1Fb15nKbm9hvYum4F6usQyQ6uwfge87fY?usp=sha
 
 ## Requirements
 
-See JudyJin/Unified_People_Tracking_Attention_IDLS23_project8/combined_requirements.txt
+See `JudyJin/Unified_People_Tracking_Attention_IDLS23_project8/combined_requirements.txt`
 
 ## Best Result
 
 https://drive.google.com/file/d/16tWfHb4biFKOynVyk-GH-liLNDO25Rod/view?usp=sharing
+
+## Other Demo Results for Re-ID:
+https://drive.google.com/drive/folders/1HtWcHifGN0EzNLz_vDgmSFvnXR1qHwsY?usp=sharing
 
 ## Usage
 
