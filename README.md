@@ -21,4 +21,7 @@ This project presents a novel framework that utilizes one-shot object detection 
 
 <p align="center"><img src="assets/pipeline old.png"/></p>
 
+## Directory Structure
+The attention module takes us to the attention respository which can be used to fine-tune the attention model based on the instructions.
 
+The BoT-SORT module takes us to the re-identification repository which also contains inferences from object detection.
