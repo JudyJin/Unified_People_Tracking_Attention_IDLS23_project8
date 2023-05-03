@@ -1,0 +1,11 @@
+https://app.roboflow.com/deep-learning-computer-vision-model/people-detection-rcmjk/1
+
+https://app.roboflow.com/deep-learning-computer-vision-model/yolo_botsort/1
+
+https://app.roboflow.com/deep-learning-computer-vision-model/yolo_fine/1
+
+https://app.roboflow.com/rick-jay/yoloclass_face_new/1
+
+https://app.roboflow.com/rick-jay/yoloclass_no_aug/1
+
+https://app.roboflow.com/rick-jay/yoloclass-ff7an/1
